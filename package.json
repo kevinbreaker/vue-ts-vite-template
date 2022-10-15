@@ -1,5 +1,5 @@
 {
-  "name": "vue-vite-template",
+  "name": "lightmap-test",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -18,5 +18,7 @@
     "vite-plugin-windicss": "^1.8.4",
     "vue-tsc": "^0.34.7",
     "windicss": "^3.5.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
